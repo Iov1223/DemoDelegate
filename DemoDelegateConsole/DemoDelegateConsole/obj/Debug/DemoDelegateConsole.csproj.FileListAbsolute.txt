@@ -1,0 +1,20 @@
+C:\Users\П - Преподаватель\Desktop\Корнеев Д.А\DemoDelegateConsole\DemoDelegateConsole\bin\Debug\DemoDelegateConsole.exe.config
+C:\Users\П - Преподаватель\Desktop\Корнеев Д.А\DemoDelegateConsole\DemoDelegateConsole\bin\Debug\DemoDelegateConsole.exe
+C:\Users\П - Преподаватель\Desktop\Корнеев Д.А\DemoDelegateConsole\DemoDelegateConsole\bin\Debug\DemoDelegateConsole.pdb
+C:\Users\П - Преподаватель\Desktop\Корнеев Д.А\DemoDelegateConsole\DemoDelegateConsole\bin\Debug\NumbersSort.dll
+C:\Users\П - Преподаватель\Desktop\Корнеев Д.А\DemoDelegateConsole\DemoDelegateConsole\obj\Debug\DemoDelegateConsole.csproj.AssemblyReference.cache
+C:\Users\П - Преподаватель\Desktop\Корнеев Д.А\DemoDelegateConsole\DemoDelegateConsole\obj\Debug\DemoDelegateConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\П - Преподаватель\Desktop\Корнеев Д.А\DemoDelegateConsole\DemoDelegateConsole\obj\Debug\DemoDelegateConsole.csproj.CoreCompileInputs.cache
+C:\Users\П - Преподаватель\Desktop\Корнеев Д.А\DemoDelegateConsole\DemoDelegateConsole\obj\Debug\DemoDelegateConsole.csproj.CopyComplete
+C:\Users\П - Преподаватель\Desktop\Корнеев Д.А\DemoDelegateConsole\DemoDelegateConsole\obj\Debug\DemoDelegateConsole.exe
+C:\Users\П - Преподаватель\Desktop\Корнеев Д.А\DemoDelegateConsole\DemoDelegateConsole\obj\Debug\DemoDelegateConsole.pdb
+C:\Users\П - 9\Documents\БВ113ПАА\DemoDelegateConsole\DemoDelegateConsole\bin\Debug\DemoDelegateConsole.exe.config
+C:\Users\П - 9\Documents\БВ113ПАА\DemoDelegateConsole\DemoDelegateConsole\bin\Debug\DemoDelegateConsole.exe
+C:\Users\П - 9\Documents\БВ113ПАА\DemoDelegateConsole\DemoDelegateConsole\bin\Debug\DemoDelegateConsole.pdb
+C:\Users\П - 9\Documents\БВ113ПАА\DemoDelegateConsole\DemoDelegateConsole\bin\Debug\NumbersSort.dll
+C:\Users\П - 9\Documents\БВ113ПАА\DemoDelegateConsole\DemoDelegateConsole\obj\Debug\DemoDelegateConsole.csproj.AssemblyReference.cache
+C:\Users\П - 9\Documents\БВ113ПАА\DemoDelegateConsole\DemoDelegateConsole\obj\Debug\DemoDelegateConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\П - 9\Documents\БВ113ПАА\DemoDelegateConsole\DemoDelegateConsole\obj\Debug\DemoDelegateConsole.csproj.CoreCompileInputs.cache
+C:\Users\П - 9\Documents\БВ113ПАА\DemoDelegateConsole\DemoDelegateConsole\obj\Debug\DemoDelegateConsole.csproj.CopyComplete
+C:\Users\П - 9\Documents\БВ113ПАА\DemoDelegateConsole\DemoDelegateConsole\obj\Debug\DemoDelegateConsole.exe
+C:\Users\П - 9\Documents\БВ113ПАА\DemoDelegateConsole\DemoDelegateConsole\obj\Debug\DemoDelegateConsole.pdb

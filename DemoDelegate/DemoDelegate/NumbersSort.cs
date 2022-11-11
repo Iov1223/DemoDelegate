@@ -5,12 +5,25 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.Text.RegularExpressions;
 
 namespace DemoDelegate
 {
-    internal class NumbersSort
+    delegate string str2str(string str);
+    public class NumbersSort
     {
-        delegate string str2str(string str);
+        private List<int> numberReader(string _text)
+        {
+            var _list = new List<int>();
+            var regex = new Regex(@"[\-]{0,1}\d+");
+            var matches = regex.Matches(_text);
+            foreach (Match match in matches)
+            {
+                _list.Add(int.Parse(match.ToString()));
+            }
+            _list.Sort();
+            return _list;
+        }
         public string Content { get; }
         private string winFormRead(string filePath = "")
         {
@@ -26,33 +39,50 @@ namespace DemoDelegate
             {
                 filePath = openFileDialog.FileName;
                 var fileStream = openFileDialog.OpenFile();
+
+
                 StreamReader reader = new StreamReader(fileStream);
                 fileContent = reader.ReadToEnd();
                 reader.Close();
             }
-            return fileContent;
+            string _tmp = "";
+            foreach (var item in numberReader(fileContent))
+            {
+                _tmp = _tmp + "  " + item;
+            }
+
+            return _tmp;
         }
         private string consoleRead(string fileName)
         {
             string path = Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments);
             path += "\\" + fileName;
-            StreamReader sr = new StreamReader(path);
+            var sr = new StreamReader(path);
             string fileContent = sr.ReadToEnd();
             sr.Close();
-            return fileContent;
+            string _tmp = "";
+            foreach (var item in numberReader(fileContent))
+            {
+                _tmp = _tmp + "  " + item; 
+            }
+            
+            return _tmp;
+
         }
         public NumbersSort(string trigger = "")
         {
             str2str read;
             if (trigger == "console")
             {
-                read = consoleRead;                
+                read = consoleRead;   
             }
             else
             {
-                read = winFormRead;  
+                read = winFormRead;
             }
             Content = read?.Invoke("Numbers.txt");
         }
     }
+
+        
 }

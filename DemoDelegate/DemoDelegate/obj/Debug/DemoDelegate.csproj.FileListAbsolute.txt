@@ -1,0 +1,22 @@
+C:\Users\С - Teacher\Desktop\Корнеев Д.А\DemoDelegate\DemoDelegate\bin\Debug\DemoDelegate.exe.config
+C:\Users\С - Teacher\Desktop\Корнеев Д.А\DemoDelegate\DemoDelegate\bin\Debug\DemoDelegate.exe
+C:\Users\С - Teacher\Desktop\Корнеев Д.А\DemoDelegate\DemoDelegate\bin\Debug\DemoDelegate.pdb
+C:\Users\С - Teacher\Desktop\Корнеев Д.А\DemoDelegate\DemoDelegate\obj\Debug\DemoDelegate.csproj.AssemblyReference.cache
+C:\Users\С - Teacher\Desktop\Корнеев Д.А\DemoDelegate\DemoDelegate\obj\Debug\DemoDelegate.csproj.SuggestedBindingRedirects.cache
+C:\Users\С - Teacher\Desktop\Корнеев Д.А\DemoDelegate\DemoDelegate\obj\Debug\DemoDelegate.FormFileSorter.resources
+C:\Users\С - Teacher\Desktop\Корнеев Д.А\DemoDelegate\DemoDelegate\obj\Debug\DemoDelegate.Properties.Resources.resources
+C:\Users\С - Teacher\Desktop\Корнеев Д.А\DemoDelegate\DemoDelegate\obj\Debug\DemoDelegate.csproj.GenerateResource.cache
+C:\Users\С - Teacher\Desktop\Корнеев Д.А\DemoDelegate\DemoDelegate\obj\Debug\DemoDelegate.csproj.CoreCompileInputs.cache
+C:\Users\С - Teacher\Desktop\Корнеев Д.А\DemoDelegate\DemoDelegate\obj\Debug\DemoDelegate.exe
+C:\Users\С - Teacher\Desktop\Корнеев Д.А\DemoDelegate\DemoDelegate\obj\Debug\DemoDelegate.pdb
+C:\Users\П - 9\Documents\БВ113ПАА\DemoDelegate\DemoDelegate\bin\Debug\DemoDelegate.exe.config
+C:\Users\П - 9\Documents\БВ113ПАА\DemoDelegate\DemoDelegate\bin\Debug\DemoDelegate.exe
+C:\Users\П - 9\Documents\БВ113ПАА\DemoDelegate\DemoDelegate\bin\Debug\DemoDelegate.pdb
+C:\Users\П - 9\Documents\БВ113ПАА\DemoDelegate\DemoDelegate\obj\Debug\DemoDelegate.csproj.AssemblyReference.cache
+C:\Users\П - 9\Documents\БВ113ПАА\DemoDelegate\DemoDelegate\obj\Debug\DemoDelegate.csproj.SuggestedBindingRedirects.cache
+C:\Users\П - 9\Documents\БВ113ПАА\DemoDelegate\DemoDelegate\obj\Debug\DemoDelegate.FormFileSorter.resources
+C:\Users\П - 9\Documents\БВ113ПАА\DemoDelegate\DemoDelegate\obj\Debug\DemoDelegate.Properties.Resources.resources
+C:\Users\П - 9\Documents\БВ113ПАА\DemoDelegate\DemoDelegate\obj\Debug\DemoDelegate.csproj.GenerateResource.cache
+C:\Users\П - 9\Documents\БВ113ПАА\DemoDelegate\DemoDelegate\obj\Debug\DemoDelegate.csproj.CoreCompileInputs.cache
+C:\Users\П - 9\Documents\БВ113ПАА\DemoDelegate\DemoDelegate\obj\Debug\DemoDelegate.exe
+C:\Users\П - 9\Documents\БВ113ПАА\DemoDelegate\DemoDelegate\obj\Debug\DemoDelegate.pdb

@@ -34,21 +34,21 @@
             // labelFileContent
             // 
             this.labelFileContent.AutoSize = true;
-            this.labelFileContent.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.labelFileContent.Location = new System.Drawing.Point(278, 208);
+            this.labelFileContent.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.labelFileContent.Location = new System.Drawing.Point(36, 13);
             this.labelFileContent.Name = "labelFileContent";
-            this.labelFileContent.Size = new System.Drawing.Size(229, 25);
+            this.labelFileContent.Size = new System.Drawing.Size(179, 20);
             this.labelFileContent.TabIndex = 0;
-            this.labelFileContent.Text = "Содержимое Файла";
+            this.labelFileContent.Text = "Содержимое файла";
             // 
             // FormFileSorter
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(515, 280);
             this.Controls.Add(this.labelFileContent);
             this.Name = "FormFileSorter";
-            this.Text = "FileSort";
+            this.Text = "FileSorter";
             this.DoubleClick += new System.EventHandler(this.FormFileSorter_DoubleClick);
             this.ResumeLayout(false);
             this.PerformLayout();

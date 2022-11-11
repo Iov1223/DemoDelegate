@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B204FA96-1DE0-4D02-9559-7D540E044A91}</ProjectGuid>
+    <ProjectGuid>{73B1F756-7CC6-4234-8849-B4FF47769BD3}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>DemoDelegate</RootNamespace>
     <AssemblyName>DemoDelegate</AssemblyName>
@@ -52,7 +52,7 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="NumberSort.cs" />
+    <Compile Include="NumbersSort.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
